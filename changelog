@@ -1,0 +1,23 @@
+commit 16ca21b506d8d31d84fe4b08bee91d4d93bc6d12 (HEAD -> master, origin/master, origin/HEAD)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Sep 30 17:12:31 2018 +0000
+
+    Update README.md
+
+commit 57c624c69fd563c1f9b311c91fe51eaa50cabcf5
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Sep 30 17:11:07 2018 +0000
+
+    Update README.md
+
+commit 9e49cfccc047fdd7cc4d955a7e04321274cc9233
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Sep 30 12:56:21 2018 -0400
+
+    * first commit
+
+commit c6ea15b685cc48dde1116a5ccff1e6a3fa16aea2
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Sep 30 16:43:06 2018 +0000
+
+    Initial commit
